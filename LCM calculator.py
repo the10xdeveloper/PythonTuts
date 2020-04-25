@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
-
 
 '''
 This python program calculates the LCM of any two given number
@@ -25,8 +23,6 @@ while numI <= 99999999: # Initializing a while loop
         print("The LCM of the numbers", numA, "and", numB, "provided is: ", numI) # Printing the results
         break # Breaks the loop
 
-
-# In[ ]:
 
 
 
